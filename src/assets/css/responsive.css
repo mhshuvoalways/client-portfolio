@@ -1,7 +1,4 @@
 @media only screen and (max-width: 1050px) {
-  .advantage-items {
-    flex-wrap: wrap;
-  }
   .eduexp-items {
     flex-wrap: wrap;
   }

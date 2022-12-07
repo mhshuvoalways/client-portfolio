@@ -160,6 +160,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
   gap: 18.55px;
   margin-top: 58.43px;
 }
@@ -191,6 +192,13 @@ body {
   font-size: 31px;
   line-height: 120%;
   color: #000000;
+}
+.advantage-items-name {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 120%;
+  color: #000000;
+  margin-top: 20px;
 }
 .all-border__advantage {
   margin-top: 78.44px;

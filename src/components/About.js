@@ -11,8 +11,8 @@ const About = () => {
         <p className="about-intro-des">
           Technology consultant / Software Developer
         </p>
-        <img src={AboutBGLog1} className="aboutbglogo1" />
-        <img src={AboutBGLog2} className="aboutbglogo2" />
+        <img src={AboutBGLog1} className="aboutbglogo1" alt="" />
+        <img src={AboutBGLog2} className="aboutbglogo2" alt="" />
       </div>
       <div className="about-info">
         <div className="about-info-bio">
