@@ -21,7 +21,7 @@
   }
   .nav-mobile {
     display: grid;
-    gap: 15px;
+    gap: 30px;
     border-top: 1px solid #efefef;
     padding: 10px 0;
   }
