@@ -55,6 +55,7 @@ body {
   display: flex;
   gap: 16px;
   cursor: pointer;
+  align-items: center;
 }
 
 .nav-mobile {
@@ -167,27 +168,27 @@ body {
 .advantage-item-figma {
   width: 185px;
   height: 263px;
-  background-image: url("../images/figma.svg");
+  background-image: url("../images/cloud-compute.jpg");
   background-position: center;
   background-size: cover;
 }
 .advantage-item-figma__sketch {
-  background-image: url("../images/sketch.svg");
+  background-image: url("../images/net.jpg");
 }
 .advantage-item-figma__adobexd {
-  background-image: url("../images/adobexd.svg");
+  background-image: url("../images/sql.png");
 }
 .advantage-item-figma__java {
-  background-image: url("../images/java.svg");
+  background-image: url("../images/js.png");
 }
 .advantage-item-figma__bootstrap {
-  background-image: url("../images/bootstrap.svg");
+  background-image: url("../images/agile.png");
 }
 .advantage-item-figma__html {
   background-image: url("../images/html.svg");
 }
 .advantage-item-percentage {
-  padding-top: 174.16px;
+  padding-top: 260px;
   font-weight: 700;
   font-size: 31px;
   line-height: 120%;
@@ -198,7 +199,7 @@ body {
   font-size: 20px;
   line-height: 120%;
   color: #000000;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 .all-border__advantage {
   margin-top: 78.44px;
@@ -373,7 +374,6 @@ body {
   justify-content: space-between;
   align-items: center;
   height: 161.96px;
-  flex-wrap: wrap;
 }
 .footer-text {
   font-weight: 400;

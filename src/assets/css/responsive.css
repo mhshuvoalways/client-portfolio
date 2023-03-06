@@ -79,10 +79,4 @@
   .advantage-items {
     justify-content: center;
   }
-  .slick-prev {
-    left: -50px;
-  }
-  .slick-next {
-    right: -50px;
-  }
 }

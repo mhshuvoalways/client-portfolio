@@ -26,9 +26,9 @@ const Testimonial = () => {
               med loheten pregt. Polyd delogi emedan stenons, semideplasam
               eurossa, nepögen.”
             </p>
-            <p className="testimonial-items-author">Jurgen Kloop</p>
+            <p className="testimonial-items-author">IPO</p>
             <p className="testimonial-items-role">
-              Product Management at Google Inc
+              IPO, DOS
             </p>
           </div>
           <div className="testimonial-items">
@@ -39,9 +39,9 @@ const Testimonial = () => {
               med loheten pregt. Polyd delogi emedan stenons, semideplasam
               eurossa, nepögen.”
             </p>
-            <p className="testimonial-items-author">Jurgen Kloop</p>
+            <p className="testimonial-items-author">Dr. Peter Herzig</p>
             <p className="testimonial-items-role">
-              Product Management at Google Inc
+              Program Manager at GTZ
             </p>
           </div>
           <div className="testimonial-items">
@@ -52,9 +52,9 @@ const Testimonial = () => {
               med loheten pregt. Polyd delogi emedan stenons, semideplasam
               eurossa, nepögen.”
             </p>
-            <p className="testimonial-items-author">Jurgen Kloop</p>
+            <p className="testimonial-items-author">Product Manager</p>
             <p className="testimonial-items-role">
-              Product Management at Google Inc
+              @Mebrat.net
             </p>
           </div>
         </Slider>
