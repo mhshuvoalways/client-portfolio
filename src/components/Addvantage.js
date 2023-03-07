@@ -14,31 +14,31 @@ const Addvantage = () => {
           <p className="advantage-items-name">Cloud Computing</p>
         </div>
         <div>
-          <div className="advantage-item-figma advantage-item-figma__sketch">
+          <div className="advantage-item-figma__sketch">
             <p className="advantage-item-percentage">95%</p>
           </div>
           <p className="advantage-items-name">.Net</p>
         </div>
         <div>
-          <div className="advantage-item-figma advantage-item-figma__adobexd">
+          <div className="advantage-item-figma__adobexd">
             <p className="advantage-item-percentage">82%</p>
           </div>
           <p className="advantage-items-name">SQL server</p>
         </div>
         <div>
-          <div className="advantage-item-figma advantage-item-figma__java">
+          <div className="advantage-item-figma__java">
             <p className="advantage-item-percentage">93%</p>
           </div>
           <p className="advantage-items-name">JavaScript</p>
         </div>
         <div>
-          <div className="advantage-item-figma advantage-item-figma__bootstrap">
+          <div className="advantage-item-figma__bootstrap">
             <p className="advantage-item-percentage">76%</p>
           </div>
           <p className="advantage-items-name">Agile Scrum</p>
         </div>
         <div>
-          <div className="advantage-item-figma advantage-item-figma__html">
+          <div className="advantage-item-figma__html">
             <p className="advantage-item-percentage">88%</p>
           </div>
           <p className="advantage-items-name">HTMLS/CSS</p>
